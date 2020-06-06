@@ -2,5 +2,4 @@
 (Player vs Computer )- Heads or Tails - Coin Toss match - JavaScript Project
 
 In this application the player selects heads or tails, while computer selects too using Math.random() JavaScript code, 
-if playerGuess === computerGuess, player wins otherwise computer wins, score is tracked between the two during the functioning 
-of the entire code.
+if playerGuess === computerGuess, player wins otherwise computer wins, score is displayed while playing the match.
